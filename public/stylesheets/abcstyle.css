@@ -1,0 +1,59 @@
+.container
+{
+padding-top: 10px;
+padding-bottom: 10px;
+background-color:#F8F8F8;	
+}
+.container-fluid {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+.bg-1
+{
+background-color:#1abc9c;	
+}
+.bg-1 h3
+{
+color:white;
+padding-top: 28px;
+margin-bottom: 21px;	
+}
+.bg-2
+{
+background-color:#474E5D;	
+}
+.bg-2 h3
+{
+padding-top: 24px;
+padding-bottom: 17px;
+}
+.bg-2 p
+{
+padding-top: 24px;
+padding-bottom: 17px;	
+}
+.bg-3
+{
+background-color:#FFFFFF;
+}
+.bg-3 p
+{
+color:black;	
+}
+.bg-3 h3
+{
+color:black;	
+}
+.button
+{
+margin-top:10px;
+padding-top:30px;	
+}
+.bg-4
+{
+background-color:#2F2F2F;	
+}
+.bg-4 p
+{
+color:white;	
+}
